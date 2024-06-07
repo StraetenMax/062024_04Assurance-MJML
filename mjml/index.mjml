@@ -1,0 +1,102 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Annonce Poste Ref01</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
+    <mj-raw>
+      <meta name="color-scheme" content="light"></meta>
+      <meta name="supported-color-schemes" content="light"></meta>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all Roboto="Roboto" Arial="Arial" Helvetica="Helvetica" sans-serif="sans-serif"/>
+      <mj-image padding="0" border="none"/>
+      <mj-button background-color="#BA4995" font-size="16px" line-height="20px" font-weight="500" text-transform="uppercase" inner-padding="15px 30px" border-radius="10px"/>
+    </mj-attributes>
+    <mj-style>
+      .hover:hover td, .hover:hover a{
+          background-color: #684092 !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#edf2f7">
+    <mj-section padding="0">
+      <mj-column width="600px">
+        <mj-image alt="+40 postes à pourvoir en alternance chez nos entreprises partenaires" src="https://i.ibb.co/PmvMPfV/bandeau-Let.gif"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="250px">
+        <mj-image src="https://img.mailinblue.com/3403292/images/content_library/original/6631e75e524b5b6d34b88b1b.png" alt="Logo Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="500px">
+        <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><strong>{{contact.PRENOM}}</strong> cette annonce correspond à votre recherche d'une alternance dans les métiers de l'assurance et de la banque.</mj-text>
+        <mj-text align="center" font-size="16px" font-weight="900" line-height="20px" color="#684092" text-transform="uppercase" padding-top="0" padding-bottom="0"><span style="color:#D30000;">Poste</span> à la une </mj-text>
+        <mj-text align="center" font-size="38px" font-weight="300" line-height="42px" color="#684092">Gestionnaire négociateur (sinistre)</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50px">
+        <mj-image padding="10px 0" alt="Icon Entreprise" src="https://i.ibb.co/1GKXZN1/Entreprise04-Assurance.png"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-bottom="0"><strong style="color:#684092;text-transform:uppercase">Entreprise :</strong> Assureur spécialisé dans les secteurs du bâtiment et des travaux publics propose d'intégrer l'équipe <strong>Résolution Client Spécifique</strong> dont la mission est de gérer l'ensemble des flux <strong>Relation Client</strong></mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0"><strong style="color:#684092;text-transform:uppercase">Lieu :</strong> Marcq-en-Baroeul</mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-bottom="0" padding-top="0"><strong style="color:#684092;text-transform:uppercase">Durée :</strong> 12 mois</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="50px">
+        <mj-image padding="10px 0" alt="Icon mission" src="https://i.ibb.co/K7Q2WDH/Fusee04-Assurance.png"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#684092" text-transform="uppercase" align="left" padding-top="0" padding-bottom="0"><strong>Missions :</strong></mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0">
+          <ul style="margin-top: 0;"> 
+            <li>Je vérifie et rassemble les pièces nécessaires au dossier et procède à son ouverture informatique,</li>
+            <li>J'étudie de manière approfondie les garanties du contrat et les déclarations de l'assuré,</li>
+            <li>Je désigne et mandate, le cas échéant, l'expert le plus approprié,</li>
+            <li>J'analyse les rapports, je prends position et éventuellement j'applique les conventions,</li>
+            <li>J'informe régulièrement le sociétaire et la hiérarchie du déroulement du dossier,</li>
+            <li>Je propose et procède aux réglements, dans la limite de mes pouvoirs, et aux opérations de recours.</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="500px">
+        <mj-button css-class="hover" href="https://ecosup-assurance.fr/gestionnaire-negociateur-sinistres/">Postuler Maintenant</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column width="240px">
+        <mj-image width="120px" alt="logo Ecosup-Campus" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png"/>
+        <mj-text font-size="12px" line-height="16px" font-weight="400" color="#2D3748" align="center" padding-top="0" padding-bottom="0">
+          <div>17 place Charles et Albert Roussel</div>
+          <div style="text-transform:uppercase">tourcoing</div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="380px">
+        <mj-social inner-padding="0 15px" icon-size="25px" mode="horizontal">
+          <mj-social-element alt="icon Linkedin" src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
+          <mj-social-element alt="icon Facebook" src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance"></mj-social-element>
+          <mj-social-element alt="icon Instagram" src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus"></mj-social-element>
+          <mj-social-element alt="icon Youtube" src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="380px">
+        <mj-text font-size="12px" line-height="16px" font-weight="400" color="#2D3748" align="center" padding-top="0" padding-bottom="0">
+          <div>Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</div>
+          <div><a style="text-decoration:none;color:#BA4995;" href="{{ mirror }}">Afficher dans votre navigateur web.</a></div>
+          <div><a style="text-decoration:none;color:#BA4995;text-transform:uppercase" href="{{ unsubscribe }}">se désinscrire.</a></div>
+        </mj-text>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
