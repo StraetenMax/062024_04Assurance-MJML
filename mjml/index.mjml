@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Annonce Poste Ref01</mj-title>
+    <mj-title>Annonce Poste Ref04</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
     <mj-raw>
       <meta name="color-scheme" content="light"></meta>
@@ -19,6 +19,16 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#edf2f7">
+    <mj-section background-color="#4A5568" padding="0">
+      <mj-group width="480px">
+        <mj-column width="20%" padding-top="8px" padding-bottom="8px" padding-right="8px" vertical-align="middle">
+          <mj-image padding="0" border="none" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
+        </mj-column>
+        <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px">
+          <mj-text vertical-align="middle" padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <em>(École Supérieure d'Assurance)</em></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
     <mj-section padding="0">
       <mj-column width="600px">
         <mj-image alt="+40 postes à pourvoir en alternance chez nos entreprises partenaires" src="https://i.ibb.co/PmvMPfV/bandeau-Let.gif"/>
@@ -42,7 +52,7 @@
       </mj-column>
       <mj-column width="450px">
         <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-bottom="0"><strong style="color:#684092;text-transform:uppercase">Entreprise :</strong> Assureur spécialisé dans les secteurs du bâtiment et des travaux publics propose d'intégrer l'équipe <strong>Résolution Client Spécifique</strong> dont la mission est de gérer l'ensemble des flux <strong>Relation Client</strong></mj-text>
-        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0"><strong style="color:#684092;text-transform:uppercase">Lieu :</strong> Marcq-en-Baroeul</mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0"><strong style="color:#684092;text-transform:uppercase">Lieu :</strong> Métropole lilloise</mj-text>
         <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-bottom="0" padding-top="0"><strong style="color:#684092;text-transform:uppercase">Durée :</strong> 12 mois</mj-text>
       </mj-column>
     </mj-section>
@@ -66,7 +76,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="500px">
-        <mj-button css-class="hover" href="https://ecosup-assurance.fr/gestionnaire-negociateur-sinistres/">Postuler Maintenant</mj-button>
+        <mj-button css-class="hover" href="https://ecosup-assurance.fr/assistant-conseiller-commercial/">Postuler Maintenant</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding-bottom="0">
